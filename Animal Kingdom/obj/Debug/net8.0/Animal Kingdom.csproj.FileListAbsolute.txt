@@ -1,0 +1,14 @@
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.AssemblyInfoInputs.cache
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.AssemblyInfo.cs
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.csproj.CoreCompileInputs.cache
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\bin\Debug\net8.0\Animal Kingdom.exe
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\bin\Debug\net8.0\Animal Kingdom.deps.json
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\bin\Debug\net8.0\Animal Kingdom.runtimeconfig.json
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\bin\Debug\net8.0\Animal Kingdom.dll
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\bin\Debug\net8.0\Animal Kingdom.pdb
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.dll
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\refint\Animal Kingdom.dll
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.pdb
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\Animal Kingdom.genruntimeconfig.cache
+C:\Users\mr0999761\OneDrive - Ozarks Technical Community College\C#\Module 3\Animal Kingdom\obj\Debug\net8.0\ref\Animal Kingdom.dll
